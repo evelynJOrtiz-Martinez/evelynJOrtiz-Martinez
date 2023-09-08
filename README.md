@@ -1,16 +1,20 @@
-### Hi there 👋
+# Oh Hello!!! Welcome to my GitHub profile.
 
-<!--
-**evelynJOrtiz-Martinez/evelynJOrtiz-Martinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Growing and Learning
+Life's all about growth, right? Currently, I'm nurturing my skills in:
+- Quantum computing
+- Embroidery 
+- Leadership
 
-Here are some ideas to get you started:
+## 💡 Let's Collaborate
+I'm always up for a coding adventure. If you have a wild idea or a crazy project you want to collaborate on, count me in! Specifically reach out for the following:
+- Building a website
+- Designing games
+- Designing apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😄 Fun Facts
+- I have a bearded dragon named Draco
+- I love watching Marvel and Star Wars movies
+- I collect Marvel anf X-Men comicbooks
+
+Thanks for stopping by!
