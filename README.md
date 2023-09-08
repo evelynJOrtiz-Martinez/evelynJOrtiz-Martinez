@@ -15,6 +15,6 @@ I'm always up for a coding adventure. If you have a wild idea or a crazy project
 ## 😄 Fun Facts
 - I have a bearded dragon named Draco
 - I love watching Marvel and Star Wars movies
-- I collect Marvel anf X-Men comicbooks
+- I collect Marvel and X-Men comicbooks
 
 Thanks for stopping by!
